@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc77d72-b6d8-45d5-bf15-6557f40760e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/createaccountscreen.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signinscreen.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="78" column="29" selection-start-line="78" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themedwidgets.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firebaseloginscreen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1501">
+              <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firebaseloginscreen.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="399">
+                <caret line="21" selection-start-line="21" selection-end-line="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loadingpopup.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login_success</find>
+      <find>print</find>
+      <find>reset</find>
+      <find>couldn</find>
+      <find>need to mod</find>
+      <find>animate</find>
+      <find>rgb</find>
+      <find>log in</find>
+      <find>blank</find>
+      <find>display</find>
+      <find>user_data</find>
+      <find>APP</find>
+      <find>FOREGROUN</find>
+      <find>mdtextfield</find>
+      <find>hint_text_color</find>
+      <find>themedinput</find>
+      <find>themedmessage</find>
+      <find>on_</find>
+      <find>helper</find>
+      <find>textbutton</find>
+      <find>message</find>
+      <find>theme_cls</find>
+      <find>button</find>
+      <find>password</find>
+      <find>images_path</find>
+      <find>mdtext</find>
+      <find>sign_in_msg</find>
+      <find>refresh</find>
+      <find>legend</find>
+      <find>erik</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sign_up_msg</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="MaterialDesign" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FirebaseLoginScreen/themedwidgets.kv" />
+        <option value="$PROJECT_DIR$/FirebaseLoginScreen/signinscreen.kv" />
+        <option value="$PROJECT_DIR$/FirebaseLoginScreen/createaccountscreen.kv" />
+        <option value="$PROJECT_DIR$/FirebaseLoginScreen/welcomescreen.kv" />
+        <option value="$PROJECT_DIR$/FirebaseLoginScreen/firebaseloginscreen.kv" />
+        <option value="$PROJECT_DIR$/FirebaseLoginScreen/firebaseloginscreen.py" />
+        <option value="$PROJECT_DIR$/loadingpoup.kv" />
+        <option value="$PROJECT_DIR$/progressspinner2/LICENSE" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/main.kv" />
+        <option value="$PROJECT_DIR$/loadingpopup.kv" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/textfields.py" />
+        <option value="$PROJECT_DIR$/firebaseloginscreen.kv" />
+        <option value="$PROJECT_DIR$/welcomescreen.kv" />
+        <option value="$PROJECT_DIR$/createaccountscreen.kv" />
+        <option value="$PROJECT_DIR$/signinscreen.kv" />
+        <option value="$PROJECT_DIR$/button.py" />
+        <option value="$PROJECT_DIR$/themedwidgets.kv" />
+        <option value="$PROJECT_DIR$/firebaseloginscreen.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirebaseLoginScreen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirebaseLoginScreen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirebaseLoginScreen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FirebaseLoginScreen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc77d72-b6d8-45d5-bf15-6557f40760e2" name="Default Changelist" comment="" />
+      <created>1556640092960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556640092960</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Basic UI implemented.">
+      <created>1556640213913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556640213914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create account (sign up) screen working - both backend and front end.">
+      <created>1556648511246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556648511246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sign in and password reset both working. Updated README.">
+      <created>1556664085066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556664085066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refresh token is now saved in a file after successfully logging in. Upon starting up (actually, when the `web_api_key` field is set), attempts to read the refresh token. If it can find the file, attempts to use it to log in. If successful, calls the on_login_successful function.">
+      <created>1556667361672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556667361672</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refresh token is now saved in a file after successfully logging in. Upon starting up (actually, when the `web_api_key` field is set), attempts to read the refresh token. If it can find the file, attempts to use it to log in. If successful, calls the on_login_success function.">
+      <created>1556667407066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556667407066</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Some UI changes. Also made it so the color theme is now set by including some fields in the App class. The user must define three attributes: login_primary_color, login_secondary_color, and login_tertiary_color. As shown in main.py in this repository.">
+      <created>1556734225553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556734225553</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed bug where sign in or sign up button would disappear and not come back.">
+      <created>1556735885164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556735885164</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated README. Fixed file structure to allow imports properly when the repository is cloned.">
+      <created>1556736657950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736657950</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed some import statements to make imports work when cloned from github AND while running the main.py in the repository (used for testing).">
+      <created>1556748252632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556748252632</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed some import statements to make imports work when cloned from github AND while running the main.py in the repository (used for testing).">
+      <created>1556750479886</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556750479886</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added a debug option to print out some extra info about what's going on if the user is running into an error.">
+      <created>1556754496368</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556754496368</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated documentation for the FirebaseLoginScreen class.">
+      <created>1556756058687</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556756058687</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated documentation for the FirebaseLoginScreen class.">
+      <created>1556756335823</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556756335823</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated README">
+      <created>1556757248259</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556757248259</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated README">
+      <created>1556757638442</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556757638442</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Loading screen now shows while attempting to make any HTTP requests. Animation taken from the kivy.garden.progressspinner module.">
+      <created>1556816126858</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556816126858</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Loading screen now shows while attempting to make any HTTP requests. Animation taken from the kivy.garden.progressspinner module.">
+      <created>1556817836356</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1556817836356</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Removed .gitignore in progressspinner">
+      <created>1556818454048</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1556818454048</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Removed .gitignore in progressspinner">
+      <created>1556818538436</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556818538436</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fixed progress spinner color, updated README to show instructions to import the FirebaseLoginScreen in kv instead of python">
+      <created>1556820220826</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556820220826</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated the look of the bottom message. Repositioned a bit of UI in welcome screen.">
+      <created>1556830099279</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556830099279</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed bug which broke the ThemedMessage widget depending on the type of login_primary_color">
+      <created>1556830402830</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556830402830</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fixed transition directions when hitting the back button.">
+      <created>1556830929790</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1556830929790</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fixed transition directions when hitting the back button. Changed &quot;Log In&quot; to &quot;Sign In&quot;.">
+      <created>1556831184589</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556831184589</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fixed link in README">
+      <created>1556831865699</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556831865699</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fixed link in README">
+      <created>1556831972460</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1556831972460</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Fixed link in README">
+      <created>1556832501795</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1556832501795</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Made all color references completely relative in the widget tree. They all reference the FirebaseLoginScreen one way or another, so colors must be set there (in the kv file) now instead of in the main app class.">
+      <created>1556834627896</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556834627896</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Made a note in the README about a possible race condition when settings the web API key,&#10;as it searches for the App.get_running_app().user_data_dir, which will&#10;not have been set if the App hasn't finished initializing yet.">
+      <created>1556835568228</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556835568228</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updated README">
+      <created>1556836485762</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556836485762</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Playing with UI.">
+      <created>1556838124432</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1556838124432</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Playing with UI.">
+      <created>1556838390161</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1556838390161</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Playing with UI.">
+      <created>1556838716508</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1556838716508</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Playing with UI.">
+      <created>1556839508018</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1556839508018</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Playing with UI.">
+      <created>1556839537151</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1556839537151</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Playing with UI.">
+      <created>1556840868613</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1556840868613</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Playing with UI.">
+      <created>1556841180908</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1556841180909</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Spinner now uses tertiary color instead of secondary.">
+      <created>1556841883611</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1556841883611</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Update README">
+      <created>1556899777101</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1556899777101</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Update README">
+      <created>1556899904217</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1556899904217</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update README">
+      <created>1556899962856</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1556899962856</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Removed default email/password from create account screen">
+      <created>1556900091192</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1556900091192</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Fixed error trying to import progressspinner using python3">
+      <created>1557164536330</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1557164536330</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Attempting to make the module work with kivyMD, but proving to be tough without assuming the entire project is made with kivyMD.">
+      <created>1558196592966</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1558196592966</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Fixed refresh token file location.">
+      <created>1558203383546</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1558203383546</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17406625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36144578" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refresh token is now saved in a file after successfully logging in. Upon starting up (actually, when the `web_api_key` field is set), attempts to read the refresh token. If it can find the file, attempts to use it to log in. If successful, calls the on_login_success function." />
+    <MESSAGE value="Some UI changes. Also made it so the color theme is now set by including some fields in the App class. The user must define three attributes: login_primary_color, login_secondary_color, and login_tertiary_color. As shown in main.py in this repository." />
+    <MESSAGE value="Fixed bug where sign in or sign up button would disappear and not come back." />
+    <MESSAGE value="Updated README. Fixed file structure to allow imports properly when the repository is cloned." />
+    <MESSAGE value="Fixed some import statements to make imports work when cloned from github AND while running the main.py in the repository (used for testing)." />
+    <MESSAGE value="Added a debug option to print out some extra info about what's going on if the user is running into an error." />
+    <MESSAGE value="Updated documentation for the FirebaseLoginScreen class." />
+    <MESSAGE value="Loading screen now shows while attempting to make any HTTP requests. Animation taken from the kivy.garden.progressspinner module." />
+    <MESSAGE value="Removed .gitignore in progressspinner" />
+    <MESSAGE value="Fixed progress spinner color, updated README to show instructions to import the FirebaseLoginScreen in kv instead of python" />
+    <MESSAGE value="Updated the look of the bottom message. Repositioned a bit of UI in welcome screen." />
+    <MESSAGE value="Fixed bug which broke the ThemedMessage widget depending on the type of login_primary_color" />
+    <MESSAGE value="Fixed transition directions when hitting the back button." />
+    <MESSAGE value="Fixed transition directions when hitting the back button. Changed &quot;Log In&quot; to &quot;Sign In&quot;." />
+    <MESSAGE value="Fixed link in README" />
+    <MESSAGE value="Made all color references completely relative in the widget tree. They all reference the FirebaseLoginScreen one way or another, so colors must be set there (in the kv file) now instead of in the main app class." />
+    <MESSAGE value="Made a note in the README about a possible race condition when settings the web API key,&#10;as it searches for the App.get_running_app().user_data_dir, which will&#10;not have been set if the App hasn't finished initializing yet." />
+    <MESSAGE value="Updated README" />
+    <MESSAGE value="Playing with UI." />
+    <MESSAGE value="Spinner now uses tertiary color instead of secondary." />
+    <MESSAGE value="Update README" />
+    <MESSAGE value="Removed default email/password from create account screen" />
+    <MESSAGE value="Fixed error trying to import progressspinner using python3" />
+    <MESSAGE value="Attempting to make the module work with kivyMD, but proving to be tough without assuming the entire project is made with kivyMD." />
+    <MESSAGE value="Fixed refresh token file location." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed refresh token file location." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/createaccountscreen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcomescreen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressspinner/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/progressspinner/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progressspinner/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toast/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/textfields.py" />
+    <entry file="file://$PROJECT_DIR$/button.py" />
+    <entry file="file://$PROJECT_DIR$/welcomescreen.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createaccountscreen.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signinscreen.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="29" selection-start-line="78" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebaseloginscreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebaseloginscreen.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadingpopup.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themedwidgets.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

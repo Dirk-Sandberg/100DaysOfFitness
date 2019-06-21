@@ -1,0 +1,16 @@
+<WelcomeScreen>:
+    FloatLayout:
+        MDRaisedButton:
+            id: log_in_button
+            pos_hint: {"top": .15, "center_x": .5}
+            text: "Sign In"
+            size: create_account_button.size
+            on_release:
+                root.parent.current = "sign_in_screen"
+
+        MDRaisedButton:
+            id: create_account_button
+            pos_hint: {"top": .225, "center_x": .5}
+            text: "Create Account"
+            on_release:
+                root.parent.current = "create_account_screen"

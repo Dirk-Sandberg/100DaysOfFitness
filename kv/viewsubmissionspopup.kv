@@ -1,0 +1,68 @@
+<ViewSubmissionsPopup>:
+    size_hint: (None, None)
+    size: dp(284), dp(120)+dp(195)
+    pos_hint: {'center_x': .5, 'center_y': .5}
+    elevation: 10
+    background: ""
+    background_normal: ""
+    canvas:
+        Color:
+            rgb: app.theme_cls.primary_color
+        Rectangle:
+            size: self.width, dp(60)
+            pos: root.pos[0], root.pos[1] + root.height-dp(60)
+        Color:
+            rgb: app.theme_cls.bg_normal
+        Rectangle:
+            size: self.width, dp(255)
+            pos: root.pos[0], root.pos[1] + root.height-(dp(120)+dp(195))
+
+    MDFlatButton:
+        width: dp(32)
+        id: next_submission_button
+        pos:
+            root.pos[0] + (root.size[0] - self.width)/2., root.pos[1] + dp(10)
+        text: "Next"
+        on_release: root.display_submission()
+
+    MDLabel:
+        id: name_field
+        text: ""
+        size_hint: (None, None)
+        size: dp(250), dp(60)
+        pos: root.pos[0] + (root.size[0]-self.size[0])/2.0, root.pos[1] + root.height - dp(105)
+
+    MDLabel:
+        text: ""
+        id: location_field
+        size_hint: (None, None)
+        size: dp(250), dp(60)
+        pos: root.pos[0] + (root.size[0]-self.size[0])/2.0, root.pos[1] + root.height - dp(140)
+
+    MDLabel:
+        text: ""
+        id: message_field
+        size_hint: (None, None)
+        #size: dp(250), dp(100)
+        size: dp(250), self.texture_size[1]
+        valign: 'top'
+        multiline: True
+        pos: root.pos[0] + (root.size[0]-self.size[0])/2.0, root.pos[1] + root.height - dp(135) - self.texture_size[1]#.size[1] + dp(5)#+ root.height - dp(60) - dp(60) - dp(10) - dp(60) - dp(10) - dp(100) - dp(5)
+
+    MDLabel:
+        font_style: "H6"
+        text: "What others are saying"
+        size_hint: (None, None)
+        size: dp(250), self.texture_size[1]#dp(50)
+        #pos: root.pos[0] + (root.size[0]-self.size[0])/2.0, root.pos[1] + root.height + (dp(60) - self.size[1])/2
+        pos_hint: {'center_x': .5, 'center_y': .92}
+        theme_text_color: 'Custom'
+        text_color: root.specific_text_color
+
+    MDSpinner:
+        id: spinner
+        size_hint: None, None
+        size: dp(30), dp(30)
+        color: app.theme_cls.primary_color
+        pos_hint: {"center_x": .5, "center_y": .5}
+        active: False

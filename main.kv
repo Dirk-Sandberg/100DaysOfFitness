@@ -1,0 +1,71 @@
+#:include kv/submissiondialog.kv
+#:include kv/viewsubmissionspopup.kv
+#:import utils kivy.utils
+#:import MDToolbar kivymd.toolbar.MDToolbar
+#:import MDSeparator kivymd.cards.MDSeparator
+#:import MDTextFieldRound kivymd.textfields.MDTextFieldRound
+#:import MDTextButton kivymd.button.MDTextButton
+#:import MDRaisedButton kivymd.button.MDRaisedButton
+#:import MDLabel kivymd.label.MDLabel
+#:import MDRectangleFlatButton kivymd.button.MDRectangleFlatButton
+#:import MDCheckbox kivymd.selectioncontrols.MDCheckbox
+#:import MDList kivymd.list.MDList
+#:import MDRoundFlatIconButton kivymd.button.MDRoundFlatIconButton
+#:import MDDatePicker kivymd.pickers.MDDatePicker
+#:include FirebaseLoginScreen/firebaseloginscreen.kv
+#:import FirebaseLoginScreen FirebaseLoginScreen.firebaseloginscreen.FirebaseLoginScreen
+
+
+BoxLayout:
+    orientation: 'vertical'
+    canvas.before:
+        Color
+            rgb: app.notch_color
+        Rectangle:
+            size: self.size
+            pos: self.pos
+            source: app.notch_source
+    ScreenManager:
+        size_hint: (None, None) # Account for the iPhone X ...
+        size: [Window.width, app.window_height] # ... Notch bar
+        id: sm
+        FirebaseLoginScreen:
+            id: firebase_login_screen
+            name: "firebase_login_screen"
+            debug: True
+            web_api_key: "YOU_NEED_TO_PUT_IN_YOUR_API_KEY_HERE" # Found in Firebase -> Project Settings -> Web API Key
+            primary_color: utils.get_color_from_hex("#EE682A")
+            secondary_color: utils.get_color_from_hex("#060809")
+            tertiary_color: (.25, .25, .25, 1)
+            canvas.before:
+                Color:
+                Rectangle:
+                    size: [Window.width, Window.height]#app.window_height]
+                    pos: self.pos
+                    source: 'FirebaseLoginScreen/wallpaper.jpg'
+            on_login_success:
+                # Defining this function lets you program what to do when the
+                # user has logged in (probably you'll want to change screens)!
+                # Get the important user info
+                app.user_localId = self.localId
+                app.user_idToken = self.idToken
+                app.on_login()
+        Screen:
+            id: main_screen
+            name: 'main_screen'
+            BoxLayout:
+                orientation: 'vertical'
+                MDToolbar:
+                    id: toolbar
+                    is_toolbar: True
+                    title: "100 Days of Fitness"
+                    md_bg_color: app.theme_cls.primary_color# if app.theme_cls.primary_color else (0,0,0,0)
+                    background_palette: 'Primary'
+                    background_hue: '500'
+                    elevation: 0
+                    # When clicking the search (magnify), the load_screen function makes the hamburger menu an x
+                    right_action_items:
+                        [['dots-vertical', lambda x: app.display_menu()]]
+                BoxLayout:
+                    id: main_layout
+                    orientation: 'vertical'
